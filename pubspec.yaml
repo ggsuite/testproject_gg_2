@@ -1,0 +1,23 @@
+name: testproject_gg_2
+description: This is a test project for testing the gg and kidney tool. It is just used for testing.
+version: 1.0.0
+repository: https://github.com/ggsuite/testproject_gg_2.git
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  args: ^2.7.0
+  gg_args: ^2.0.4
+  gg_console_colors: ^2.1.5
+  gg_log: ^1.0.6
+  gg_process: ^1.1.6
+  path: ^1.9.0
+
+dev_dependencies:
+  gg_capture_print: ^1.0.9
+  lints: ^6.0.0
+  test: ^1.25.6
+
+executables:
+ testproject_gg_2:
