@@ -12,3 +12,4 @@
 
 - test
 - kidney: changed references to git
+- kidney: changed references to pub.dev
