@@ -14,10 +14,7 @@ dependencies:
   gg_log: ^1.0.6
   gg_process: ^1.1.6
   path: ^1.9.0
-  testproject_gg_3:
-    git:
-      url: git@github.com:ggsuite/testproject_gg_3.git
-      ref: e
+  testproject_gg_3: ^1.0.2
 dev_dependencies:
   gg_capture_print: ^1.0.9
   lints: ^6.0.0
