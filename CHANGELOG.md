@@ -11,3 +11,4 @@
 ### Changed
 
 - test
+- kidney: changed references to git
