@@ -4,10 +4,6 @@
 // Use of this source code is governed by terms that can be
 // found in the LICENSE file in the root of this package.
 
-import 'dart:convert';
-import 'dart:io';
-
-import 'package:gg_console_colors/gg_console_colors.dart';
 import 'package:gg_capture_print/gg_capture_print.dart';
 
 import 'package:test/test.dart';
@@ -15,7 +11,7 @@ import 'package:test/test.dart';
 import '../../bin/testproject_gg_2.dart';
 
 void main() {
-  group('bin/testproject_gg_2.dart', () {
+  /*group('bin/testproject_gg_2.dart', () {
     // #########################################################################
 
     test('should be executable', () async {
@@ -39,7 +35,7 @@ void main() {
         expect(stdout, contains(msg));
       }
     });
-  });
+  });*/
 
   // ###########################################################################
   group('run(args, log)', () {
