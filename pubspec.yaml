@@ -14,7 +14,8 @@ dependencies:
   gg_log: ^1.0.6
   gg_process: ^1.1.6
   path: ^1.9.0
-  testproject_gg_3: 1.0.5
+  testproject_gg_3:
+    path: ../testproject_gg_3 # 1.0.5
   
 dev_dependencies:
   gg_capture_print: ^1.0.9
