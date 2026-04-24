@@ -1,6 +1,6 @@
 name: testproject_gg_2
 description: This is a test project for testing the gg and kidney tool. It is just used for testing.
-version: 1.0.6
+version: 1.0.7
 repository: https://github.com/ggsuite/testproject_gg_2.git
 publish_to: none
 
@@ -15,10 +15,8 @@ dependencies:
   gg_process: ^1.1.6
   path: ^1.9.0
   testproject_gg_3:
-    git:
-      url: git@github.com:ggsuite/testproject_gg_3.git
-      tag_pattern: {{version}}
-    version: ^1.1.0
+    git: git@github.com:ggsuite/testproject_gg_3.git
+    version: ^1.1.4
 dev_dependencies:
   gg_capture_print: ^1.0.9
   lints: ^6.0.0
