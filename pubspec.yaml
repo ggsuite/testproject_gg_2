@@ -15,7 +15,9 @@ dependencies:
   gg_process: ^1.1.6
   path: ^1.9.0
   testproject_gg_3:
-    path: ../testproject_gg_3 # git:  url: git@github.com:ggsuite/testproject_gg_3.git  tag_pattern:    version: null: nullversion: ^1.1.0
+    git:
+      url: git@github.com:ggsuite/testproject_gg_3.git
+      ref: feat-test
 dev_dependencies:
   gg_capture_print: ^1.0.9
   lints: ^6.0.0
