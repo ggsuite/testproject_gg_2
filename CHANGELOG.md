@@ -11,6 +11,7 @@
 ### Changed
 
 - commit
+- gg\_multi: changed references to git
 
 ## [1.0.7] - 2026-04-24
 
