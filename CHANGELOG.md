@@ -14,6 +14,7 @@
 - gg\_multi: changed references to git
 - gg\_multi: changed references to local
 - gg\_multi: changed references to git
+- gg\_multi: changed references to local
 
 ## [1.0.7] - 2026-04-24
 
