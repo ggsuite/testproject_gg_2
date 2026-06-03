@@ -6,6 +6,18 @@
 
 - kidney: changed references to path
 
+## [1.0.8] - 2026-06-03
+
+### Changed
+
+- commit
+- gg\_multi: changed references to git
+- gg\_multi: changed references to local
+- gg\_multi: changed references to git
+- gg\_multi: changed references to local
+- gg\_multi: changed references to git
+- Gg Multi: changed references to pub.dev
+
 ## [1.0.7] - 2026-04-24
 
 ### Changed
@@ -30,6 +42,7 @@
 - kidney: changed references to git
 - kidney: changed references to pub.dev
 
+[1.0.8]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.7...1.0.8
 [1.0.7]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.6...1.0.7
 [1.0.6]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.5...1.0.6
 [1.0.5]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.4...1.0.5
