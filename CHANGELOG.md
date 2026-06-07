@@ -6,6 +6,12 @@
 
 - kidney: changed references to path
 
+## [Unreleased]
+
+### Changed
+
+- E2E publish test: touch README
+
 ## [1.0.8] - 2026-06-03
 
 ### Changed
@@ -42,6 +48,7 @@
 - kidney: changed references to git
 - kidney: changed references to pub.dev
 
+[Unreleased]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.8...HEAD
 [1.0.8]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.7...1.0.8
 [1.0.7]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.6...1.0.7
 [1.0.6]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.5...1.0.6
