@@ -15,9 +15,8 @@ dependencies:
   gg_process: ^1.1.6
   path: ^1.9.0
   testproject_gg_3:
-    git:
-      url: git@github.com:ggsuite/testproject_gg_3.git
-      ref: lang_universal_publish_e2e
+    git: git@github.com:ggsuite/testproject_gg_3.git
+    version: ^1.1.6
 dev_dependencies:
   gg_capture_print: ^1.0.9
   lints: ^6.0.0
