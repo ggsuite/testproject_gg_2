@@ -6,6 +6,12 @@
 
 - kidney: changed references to path
 
+## [Unreleased]
+
+### Fixed
+
+- test: gg\_typescript\_bugfixes E2E run on testproject\_gg\_1-3
+
 ## [1.0.10] - 2026-06-08
 
 ### Changed
@@ -55,6 +61,7 @@
 - kidney: changed references to git
 - kidney: changed references to pub.dev
 
+[Unreleased]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.10...HEAD
 [1.0.10]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.9...1.0.10
 [1.0.9]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.8...1.0.9
 [1.0.8]: https://github.com/ggsuite/testproject_gg_2/compare/1.0.7...1.0.8
