@@ -8,6 +8,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- gg\_multi: changed references to git
+
 ### Fixed
 
 - test: gg\_typescript\_bugfixes E2E run on testproject\_gg\_1-3
