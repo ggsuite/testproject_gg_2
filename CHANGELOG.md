@@ -7,6 +7,10 @@
 - kidney: changed references to path
 - Rework copyright headers
 
+### Fixed
+
+- Cleanup copy right headers. Update to dart 3.13. Auto fixes.
+
 ## 1.0.13 - 2026-07-20
 
 ### Changed
