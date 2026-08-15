@@ -108,43 +108,38 @@ packages:
   gg_args:
     dependency: "direct main"
     description:
-      name: gg_args
-      sha256: "222878732924c6228b62db2d19c9b9220b591ba812ce8d0e10e5e72258e5c9d2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.2.0"
+      path: "../gg_args"
+      relative: true
+    source: path
+    version: "3.1.0"
   gg_capture_print:
     dependency: "direct dev"
     description:
-      name: gg_capture_print
-      sha256: "8bb2016a9522e04a90b0d6df4678ce38aad05c6a9fa75d8b483ccbeee94663a5"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.10"
+      path: "../gg_capture_print"
+      relative: true
+    source: path
+    version: "1.1.0"
   gg_console_colors:
     dependency: "direct main"
     description:
-      name: gg_console_colors
-      sha256: "72907fbc75815c07d99a810738913c681b8a3179cf6b998130367150e367879e"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.3.1"
+      path: "../gg_console_colors"
+      relative: true
+    source: path
+    version: "2.4.0"
   gg_log:
     dependency: "direct main"
     description:
-      name: gg_log
-      sha256: "02f9a361ff9054de66c6eb21a7b173c1b989f68a22bab4af10267f17a12763d2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.7"
+      path: "../gg_log"
+      relative: true
+    source: path
+    version: "1.1.0"
   gg_process:
     dependency: "direct main"
     description:
-      name: gg_process
-      sha256: "2e955e598dcd07c6564a7c308cc6a38c18e0fe959ba64dc6c0880674f93c15a6"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.7"
+      path: "../gg_process"
+      relative: true
+    source: path
+    version: "1.2.0"
   glob:
     dependency: transitive
     description:
@@ -388,11 +383,9 @@ packages:
   testproject_gg_3:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "144797fdfd62ee55dc887e0650eb0550f6051c51"
-      url: "https://github.com/ggsuite/testproject_gg_3.git"
-    source: git
+      path: "../testproject_gg_3"
+      relative: true
+    source: path
     version: "1.2.4"
   typed_data:
     dependency: transitive
