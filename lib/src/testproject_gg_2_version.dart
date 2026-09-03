@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `testproject_gg_2` package.
-const String testprojectGg2Version = '1.1.0';
+const String testprojectGg2Version = '1.2.0';
