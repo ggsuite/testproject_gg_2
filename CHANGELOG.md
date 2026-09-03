@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Add the current ggsuite DNA
+
 ### Changed
 
 - Use ggwsm in pipelines
